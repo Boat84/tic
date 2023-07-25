@@ -5,7 +5,7 @@ Today we're going to test and improve our coding skills by creating a simple gam
 ## Environment
 
 Fork this repository, clone it on your machine and create a new environment inside the folder. Don't forget to activate it for the assignment. 
-```
+```bash
 pyenv local 3.11.3
 python -m venv .venv
 source .venv/bin/activate
