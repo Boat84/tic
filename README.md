@@ -24,13 +24,15 @@ Fork this repository, clone it on your machine and create a new environment insi
    For `PowerShell` CLI :
 
     ```PowerShell
+    pyenv local 3.11.3
     python -m venv .venv
     .venv\Scripts\Activate.ps1
     pip install --upgrade pip
     ```
 
-    For `BASH` CLI :
+    For `Git-Bash` CLI :
     ```
+    pyenv local 3.11.3
     python -m venv .venv
     source .venv/Scripts/activate
     pip install --upgrade pip
