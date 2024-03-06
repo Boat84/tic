@@ -27,7 +27,7 @@ Example questions a prototype could answer include (1 or 2 per prototype):
 
 ### Pseudocode
 
-Semi-formal description of an alogrithm or process that helps to guide the implementation. More detailed than many other design tools, because it may mention variables and what happens to them. Focus on behavior but agnostic of program structure and programming language. For more information read the file [ntro_to_pseudocode.md](Intro_to_pseudocode.md)
+Semi-formal description of an alogrithm or process that helps to guide the implementation. More detailed than many other design tools, because it may mention variables and what happens to them. Focus on behavior but agnostic of program structure and programming language. For more information read the file [Intro_to_pseudocode.md](Intro_to_pseudocode.md)
 Example Pseudocode:
 
 1. ask a  player to make a move
