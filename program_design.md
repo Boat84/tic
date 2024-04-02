@@ -30,7 +30,7 @@ Example questions a prototype could answer include (1 or 2 per prototype):
 Semi-formal description of an alogrithm or process that helps to guide the implementation. More detailed than many other design tools, because it may mention variables and what happens to them. Focus on behavior but agnostic of program structure and programming language. For more information read the file [Intro_to_pseudocode.md](Intro_to_pseudocode.md)
 Example Pseudocode:
 
-1. ask a  player to make a move
+1. Ask the player to make a move
 2. if square is already occupied go to step 1
 3. if win end the game
 4. if draw end the game
