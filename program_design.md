@@ -32,7 +32,7 @@ Example Pseudocode:
 
 1. Ask the player to make a move
 2. If the square is already occupied go to step 1
-3. if win end the game
+3. If win end the game
 4. if draw end the game
 5. Switch player
 6. repeat to step 1
