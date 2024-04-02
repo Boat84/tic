@@ -50,7 +50,7 @@ Fork this repository, clone it on your machine and create a new environment insi
 
 Write your own Tic-Tac-Toe game. The assignment file contains a description on how the game should work. It may also help you to create a good structure for your code. 
 
-Before you start, have a look at the file [Intro_to_pseudocode.md](Intro_to_pseudocode.md). The technique described there could be useful for this task. 
+Before you start, have a look at the files [program_design.md](program_design.md) and  [Intro_to_pseudocode.md](Intro_to_pseudocode.md). The techniques described there could be useful for this task. 
 
 ## Minimal coding practices to keep in mind!
 
