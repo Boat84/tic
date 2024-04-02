@@ -54,7 +54,7 @@ Example Requirements for Tic-Tac-Toe
 
 3. __Nonfunctional Requirements__
   + 3.1 Implementation is to be done in Python
-  + 3.2 the program should run on a machine with at least 2 GB
+  + 3.2 The program should run on a machine with at least 2 GB
   + 3.3 The program should run on all OS
 
 
