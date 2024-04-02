@@ -31,7 +31,7 @@ Semi-formal description of an alogrithm or process that helps to guide the imple
 Example Pseudocode:
 
 1. Ask the player to make a move
-2. if square is already occupied go to step 1
+2. If the square is already occupied go to step 1
 3. if win end the game
 4. if draw end the game
 5. Switch player
