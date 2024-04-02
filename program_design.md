@@ -35,7 +35,7 @@ Example Pseudocode:
 3. If win end the game
 4. If draw end the game
 5. Switch player
-6. repeat to step 1
+6. Repeat to step 1
 
 ###  Requirements Document
 
